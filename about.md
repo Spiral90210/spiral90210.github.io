@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Based in Northern Ireland, a (mostly) backend developer, currently working for a large email security company. Daily work is mostly on OSX/linux environments. I've mostly worked in java, C# and javascript, but of course I've played with more :)
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+In a probably futile effort to evade the scrapers, you can get me at **david@**&nbsp;[spiraldevelopment.co.uk](http://spiraldevelopment.co.uk/).
